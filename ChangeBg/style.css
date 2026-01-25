@@ -1,0 +1,17 @@
+.body {
+  min-width: auto;
+}
+
+#btn {
+  cursor: pointer;
+  border-radius: 20px;
+  outline: none;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.changeColor {
+  background-color: blue;
+  color: white;
+}
