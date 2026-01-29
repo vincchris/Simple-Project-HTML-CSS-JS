@@ -1,0 +1,28 @@
+* {
+  padding: 20px;
+  top: 20%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+}
+
+.layout-btn {
+  height: 100px;
+}
+
+button {
+  cursor: pointer;
+  border: 4px;
+  border-radius: 20px;
+  outline: none;
+  background: black;
+  color: white;
+  height: 20px;
+}
+
+button:hover {
+  background-color: #030060;
+  cursor: pointer;
+  transition: 200ms all;
+}
