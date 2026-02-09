@@ -1,0 +1,26 @@
+* {
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+input {
+  margin: auto;
+  margin-left: 20px;
+  padding: 8px;
+  outline: none;
+}
+
+button {
+  padding: 12px;
+  outline: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  transition: 3ms ease-in;
+  background-color: black;
+  color: white;
+}
