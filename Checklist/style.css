@@ -1,0 +1,10 @@
+* {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+button {
+  margin: 20px;
+  margin-left: 10px;
+}
